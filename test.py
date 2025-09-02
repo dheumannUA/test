@@ -1,3 +1,2 @@
 print("Hello from a Python file!")
-for i in range(3):
-    print(i)
+print(list(i for i in range(5)))
