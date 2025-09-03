@@ -1,5 +1,7 @@
 **MyProject** is a simple Python package that demonstrates a pip-installable project with documentation and tests.
 
+Test
+
 ---
 
 ## Features
